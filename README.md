@@ -1,4 +1,3 @@
-# My-Computer.
 # Computer After December 2025
 CPU: AMD Ryzen 5 3600 3.6 GHz 6-Core Processor  (£62.75 @ Amazon UK) 
 
@@ -18,7 +17,7 @@ Case: Corsair 3000D AIRFLOW ATX Mid Tower Case  (£69.98 @ Amazon UK)
 
 Power Supply: MSI MAG A650BN 650 W 80+ Bronze Certified ATX Power Supply  (£42.00 @ Amazon UK) 
 
-Total : £737.12
+Total : £730.08
 
 # Computer Before December 2025
 CPU: AMD Ryzen 5 3600 3.6 GHz 6-Core Processor  (£62.75 @ Amazon UK) 
