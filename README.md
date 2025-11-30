@@ -12,7 +12,7 @@ Storage 2 : SSD 480GB  (Free)
 
 Storage 3 : HDD 500GB  (Free) 
 
-Video Card: Sapphire PULSE Radeon RX 7600 8 GB Video Card  (£254.03 @ Amazon UK)
+Video Card: Gigabyte Radeon RX 7600 GAMING OC 8G Graphics Card (£246.99 @ Amazon UK)
 
 Case: Corsair 3000D AIRFLOW ATX Mid Tower Case  (£69.98 @ Amazon UK) 
 
