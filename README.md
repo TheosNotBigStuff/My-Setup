@@ -1,4 +1,6 @@
 # My Setup
+Feel free to buy what i got, if you think it fits you.
+# Computers
 Computer (Pre-built)
 | PC Part | Specs              |
 | ------- | ------------------ |
@@ -17,4 +19,19 @@ Laptop (Thinkpad)
 | Model | Lenovo ThinkPad T490s  |
 | SSD | 256GB  |
 | CPU | Intel Core i5  |
-| RAM | 8GB |
+| RAM | 16GB |
+
+# Monitors
+| Display | Specs  |
+| ------- | ------------------ |
+|Model  | MSI PRO MP223 |
+|Resolution  | 1920x1080 *upscaled to 1440p* |
+|Refresh rate  | 100hz |
+|Total| £49.00 |
+
+# Keyboard
+| Keyboard | Specs  |
+| ------- | ------------------ |
+| Model   |RK R65              |
+| Switch  |Cream Switch        |
+| Foam?   |Yes                 |
