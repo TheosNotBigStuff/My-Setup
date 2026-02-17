@@ -45,4 +45,4 @@ Laptop (Thinkpad)
 | Thinkpad  |£115.00        |
 | Monitor   |£49.00               |
 | Keyboard   |about £40.00        |
-| Total   |934.08       |
+| Total   |£934.08       |
