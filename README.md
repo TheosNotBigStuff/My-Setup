@@ -20,6 +20,7 @@ Laptop (Thinkpad)
 | SSD | 256GB  |
 | CPU | Intel Core i5  |
 | RAM | 16GB |
+| Total | £115.00 |
 
 # Monitors
 | Display | Specs  |
@@ -35,3 +36,13 @@ Laptop (Thinkpad)
 | Model   |RK R65              |
 | Switch  |Cream Switch        |
 | Foam?   |Yes                 |
+| Price   |about £40.00        |
+
+# Total
+| Item | Price  |
+| ------- | ------------------ |
+| Computer  |£730.08             |
+| Thinkpad  |£115.00        |
+| Monitor   |£49.00               |
+| Keyboard   |about £40.00        |
+| Total   |934.08       |
