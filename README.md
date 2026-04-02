@@ -1,7 +1,8 @@
 # My Setup
 Feel free to buy what i got, if you think it fits you.
 # Computers
-Computer (Pre-built)
+Computer
+(*Built By Me!*)
 | PC Part | Specs              |
 | ------- | ------------------ |
 | CPU     | AMD Ryzen 5 3600 3.6 GHz 6-Core Processor  (£62.75 @ Amazon UK)                      |
@@ -13,20 +14,21 @@ Computer (Pre-built)
 | Power Supply | MSI MAG A650BN 650 W 80+ Bronze Certified ATX Power Supply  (£42.00 @ Amazon UK)) |
 | Total | £730.08 |
 
-Laptop (Thinkpad)
+Laptop 
+(*MacBook*)
 | Laptop | Specs  |
 | ------- | ------------------ |
-| Model | Lenovo ThinkPad T490s  |
-| SSD | 256GB  |
+| Model | Apple MacBook Pro 13" Early 2015  |
+| SSD | 512GB  |
 | CPU | Intel Core i5  |
-| RAM | 16GB |
-| Total | £115.00 |
+| RAM | 8GB |
+| Total | £104.70 |
 
 # Monitors
 | Display | Specs  |
 | ------- | ------------------ |
 |Model  | MSI PRO MP223 |
-|Resolution  | 1920x1080 *upscaled to 1440p* |
+|Resolution  | 1920x1080 |
 |Refresh rate  | 100hz |
 |Total| £49.00 |
 
@@ -42,7 +44,7 @@ Laptop (Thinkpad)
 | Item | Price  |
 | ------- | ------------------ |
 | Computer  |£730.08             |
-| Thinkpad  |£115.00        |
+| MacBook   |£104.70       |
 | Monitor   |£49.00               |
 | Keyboard   |about £40.00        |
-| Total   |£934.08       |
+| Total   |£874.78     |
