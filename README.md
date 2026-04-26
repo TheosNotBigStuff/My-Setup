@@ -35,10 +35,10 @@ Laptop
 # Keyboard
 | Keyboard | Specs  |
 | ------- | ------------------ |
-| Model   |RK R65              |
-| Switch  |Cream Switch        |
+| Model   |CHERRY XTRFY K5V2   |
+| Switch  |CHERRY MX RED       |
 | Foam?   |Yes                 |
-| Price   |about £40.00        |
+| Price   |£29.99              |
 
 # Total
 | Item | Price  |
@@ -46,5 +46,5 @@ Laptop
 | Computer  |£730.08             |
 | MacBook   |£104.70       |
 | Monitor   |£49.00               |
-| Keyboard   |about £40.00        |
-| Total   |£874.78     |
+| Keyboard   |£29.99        |
+| Total   |£913.77
